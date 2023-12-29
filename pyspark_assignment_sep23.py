@@ -10,7 +10,7 @@ Original file is located at
 
 **STUDENT NAME -** **Anjana Joshy**
 
-**STUDENT ID -** **22022447**
+
 
 In this assignment, you will be analysing the popularity of films and TV shows on the streaming platform, Netflix. Using your knowledge of PySpark DataFrames and Spark SQL, you will produce a number of "downstream" data products to analyse trends in global streaming habits.
 

@@ -8,9 +8,6 @@ Original file is located at
 
 # ADS2 - Assignment 1 - Data Handling and Processing with PySpark
 
-**STUDENT NAME -** **Anjana Joshy**
-
-
 
 In this assignment, you will be analysing the popularity of films and TV shows on the streaming platform, Netflix. Using your knowledge of PySpark DataFrames and Spark SQL, you will produce a number of "downstream" data products to analyse trends in global streaming habits.
 
